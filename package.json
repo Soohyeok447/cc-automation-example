@@ -1,0 +1,11 @@
+{
+  "name": "cc-automation-example",
+  "version": "1.0.0",
+  "description": "커밋 메시지 컨벤션을 활용한 자동화 테스트",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/Soohyeok447/cc-automation-example/compare/v1.0.0...v1.1.0) (2025-04-04)
+
+
+### Features
+
+* **auth:** update JWT config ([72363d9](https://github.com/Soohyeok447/cc-automation-example/commit/72363d91779d1ff6edd2d0ad7bb3ce4c4977a807))
+* **constants:** add basic constants for delivery status ([9fec9b5](https://github.com/Soohyeok447/cc-automation-example/commit/9fec9b500015984e40621ab30f5660b87d8764bf))
+
 # 1.0.0 (2025-04-04)
 
 
